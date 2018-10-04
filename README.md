@@ -1,5 +1,4 @@
 # Hunger-Games
-
 How to run code:
     This games only applicable on GNU Prolog Console
     Run by open GNU Prolog Console and type Start.
